@@ -1,9 +1,11 @@
+# Introduction to NodeJS
+
 In this repo is course work for Introduction to NodeJS offered by Microsoft at edx.org. Below is the overview of the course. All coursework has been completed by me.
 
-Course Overview
+## Course Overview
 This course will cover the Node core modules, Express, MongoDB and Mongoose. Here is a detailed overview of the course:
 
-Module 0: Introduction
+### Module 0: Introduction
 
 1. Welcome to Introduction to Node.js
 2. Course Overview
@@ -12,7 +14,7 @@ Module 0: Introduction
 5. Module 0 Assignment Lab: Introductions
 6. Pre-course Survey
 
-Module 1: Node Core
+### Module 1: Node Core
 
 1. Node Core Overview
 2. Installation and Recommended Tool Chain
@@ -28,7 +30,7 @@ Module 1: Node Core
 12. Module 1 Assignment Lab: CSV to JSON Converter
 13. Module 1 Assessment
 
-Module 2: Express Framework
+### Module 2: Express Framework
 
 1. Express Overview
 2. Why Express and Express Installations
@@ -41,7 +43,7 @@ Module 2: Express Framework
 9. Module 2 Assignment Lab: RESTful Blog API
 10. Module 2 Assessment
 
-Module 3: Persistence with MongoDB
+### Module 3: Persistence with MongoDB
 
 1. MongoDB Overview
 2. MongoDB Basics
@@ -52,7 +54,7 @@ Module 3: Persistence with MongoDB
 7. Module 3 Assignment Lab: MongoDB Migration Node script
 8. Module 3 Assessment
 
-Module 4: Working with Mongoose ODM
+### Module 4: Working with Mongoose ODM
 
 1. Mongoose Overview
 2. Working with Mongoose and its Schemas
@@ -63,7 +65,8 @@ Module 4: Working with Mongoose ODM
 7. Module 4 Tutorial Lab: Relational queries with Mongoose
 8. Module 4 Assignment Lab: REST API with Mongoose
 9. Module 4 Assessment
-Module 5: Final Assessment
+
+### Module 5: Final Assessment
 
 1. Final Assessment
 2. Post-Course Survey
